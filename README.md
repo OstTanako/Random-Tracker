@@ -31,3 +31,5 @@ You can contribute the plugin code, which can help me a lot.
 You are allowed to do whatever you want with the Plugin, from improving it or using its code to make your own Random Tracker.
 **It is strictly forbidden to say that this plugin was made by you, credits are not mandatory but will be appreciated**
 You can use the plugin for both non-commercial and commercial projects.
+
+If you want fork this repository, make sure to always leave the License as MIT.
